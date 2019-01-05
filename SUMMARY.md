@@ -21,5 +21,7 @@
 * [C. 模块](c.-mo-kuai/README.md)
   * [keyword](c.-mo-kuai/keyword.md)
 * [D. 习题](d.-xi-ti/README.md)
+  * [九九乘法表](d.-xi-ti/jiu-jiu-cheng-fa-biao.md)
+  * [打印菱形、三角形、闪电](d.-xi-ti/da-yin-ling-xing-san-jiao-xing-shan-dian.md)
   * [求素数](d.-xi-ti/qiu-su-shu.md)
 
