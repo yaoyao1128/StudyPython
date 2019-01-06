@@ -20,6 +20,7 @@
   * [1. 排序](b.-suan-fa/1.-pai-xu/README.md)
     * [1.冒泡法排序](b.-suan-fa/1.-pai-xu/1.-mao-pao-fa-pai-xu.md)
 * [C. 模块](c.-mo-kuai/README.md)
+  * [copy](c.-mo-kuai/copy.md)
   * [math](c.-mo-kuai/math.md)
   * [keyword](c.-mo-kuai/keyword.md)
 * [D. 习题](d.-xi-ti/README.md)
