@@ -8,6 +8,7 @@
   * [3. 通过源码安装](0.-ji-chu-zhi-shi-yu-an-zhuang/3.-tong-guo-yuan-ma-an-zhuang.md)
   * [4. 多版本管理](0.-ji-chu-zhi-shi-yu-an-zhuang/4.-duo-ban-ben-guan-li.md)
   * [5. Python的基础知识](0.-ji-chu-zhi-shi-yu-an-zhuang/5.-python-de-ji-chu-zhi-shi.md)
+  * [6. Python的内存管理](0.-ji-chu-zhi-shi-yu-an-zhuang/6.-python-de-nei-cun-guan-li.md)
 * [1. 基本语法](1.-ji-ben-yu-fa.md)
 * [2. 内置数据结构](2.-nei-zhi-shu-ju-jie-gou/README.md)
   * [1. 列表](2.-nei-zhi-shu-ju-jie-gou/1.-lie-biao.md)
