@@ -23,5 +23,7 @@
 * [D. 习题](d.-xi-ti/README.md)
   * [九九乘法表](d.-xi-ti/jiu-jiu-cheng-fa-biao.md)
   * [打印菱形、三角形、闪电](d.-xi-ti/da-yin-ling-xing-san-jiao-xing-shan-dian.md)
+  * [斐波那契数列](d.-xi-ti/bo-na-qi-shu-lie.md)
   * [求素数](d.-xi-ti/qiu-su-shu.md)
+  * [猴子吃桃](d.-xi-ti/hou-zi-chi-tao.md)
 
