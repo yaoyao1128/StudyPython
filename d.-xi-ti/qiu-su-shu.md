@@ -23,6 +23,32 @@ for x in range(3,100000,2):
 print((datetime.datetime.now()-start).total_seconds())
 ```
 
+## 代码实现（筛法）
+
+```python
+import datetime
+start = datetime.datetime.now()
+n = 1000000
+count = 1
+pri = [2]
+for i in range(3,n,2):
+    flag = True
+    edge=int(i**0.5)
+    for j in pri :
+        if i%j == 0 :
+            flag = False
+            break
+        if j > edge:         
+            flag = True
+            break
+    if flag:
+        count += 1
+        pri.append(i)
+delta = (datetime.datetime.now()-start).total_seconds()
+print(delta)
+print(len(pri))
+```
+
 ## 运行结果
 
 ```text
