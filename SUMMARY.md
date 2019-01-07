@@ -11,6 +11,7 @@
   * [6. Python的内存管理](0.-ji-chu-zhi-shi-yu-an-zhuang/6.-python-de-nei-cun-guan-li.md)
 * [1. 基本语法](1.-ji-ben-yu-fa.md)
 * [2. 内置数据结构](2.-nei-zhi-shu-ju-jie-gou/README.md)
+  * [0. 切片操作](2.-nei-zhi-shu-ju-jie-gou/0.-qie-pian-cao-zuo.md)
   * [1. 列表](2.-nei-zhi-shu-ju-jie-gou/1.-lie-biao.md)
   * [2. 元组](2.-nei-zhi-shu-ju-jie-gou/2.-yuan-zu.md)
   * [3. 字符串](2.-nei-zhi-shu-ju-jie-gou/3.-zi-fu-chuan.md)
