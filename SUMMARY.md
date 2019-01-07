@@ -29,4 +29,5 @@
   * [斐波那契数列](d.-xi-ti/bo-na-qi-shu-lie.md)
   * [求素数](d.-xi-ti/qiu-su-shu.md)
   * [猴子吃桃](d.-xi-ti/hou-zi-chi-tao.md)
+  * [杨辉三角](d.-xi-ti/yang-hui-san-jiao.md)
 
