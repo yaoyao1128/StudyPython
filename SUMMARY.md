@@ -16,6 +16,7 @@
   * [3. 字符串](2.-nei-zhi-shu-ju-jie-gou/3.-zi-fu-chuan.md)
   * [4. bytes与bytearray](2.-nei-zhi-shu-ju-jie-gou/4.-bytes-yu-bytearray.md)
   * [5. 集合 \(set\)](2.-nei-zhi-shu-ju-jie-gou/5.-ji-he-set.md)
+  * [6. 字典](2.-nei-zhi-shu-ju-jie-gou/6.-zi-dian.md)
 * [3. 操作](3.-cao-zuo/README.md)
   * [切片操作](3.-cao-zuo/qie-pian-cao-zuo.md)
 * [A. 内建函数](a.-nei-jian-han-shu.md)
