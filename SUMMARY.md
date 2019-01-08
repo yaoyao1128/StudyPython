@@ -17,7 +17,7 @@
   * [4. bytes与bytearray](2.-nei-zhi-shu-ju-jie-gou/4.-bytes-yu-bytearray.md)
   * [5. 集合 \(set\)](2.-nei-zhi-shu-ju-jie-gou/5.-ji-he-set.md)
 * [3. 操作](3.-cao-zuo/README.md)
-  * [切片操作](3.-cao-zuo/0.-qie-pian-cao-zuo.md)
+  * [切片操作](3.-cao-zuo/qie-pian-cao-zuo.md)
 * [A. 内建函数](a.-nei-jian-han-shu.md)
 * [B. 算法](b.-suan-fa/README.md)
   * [1. 排序](b.-suan-fa/1.-pai-xu/README.md)
