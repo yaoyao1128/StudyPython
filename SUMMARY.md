@@ -20,6 +20,7 @@
 * [3. 操作](3.-cao-zuo/README.md)
   * [切片操作](3.-cao-zuo/qie-pian-cao-zuo.md)
   * [封装与解构](3.-cao-zuo/feng-zhuang-yu-jie-gou.md)
+  * [del操作](3.-cao-zuo/del-cao-zuo.md)
 * [A. 内建函数](a.-nei-jian-han-shu.md)
 * [B. 算法](b.-suan-fa/README.md)
   * [1. 排序](b.-suan-fa/1.-pai-xu/README.md)
