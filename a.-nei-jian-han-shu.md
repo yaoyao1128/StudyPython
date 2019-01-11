@@ -2,7 +2,7 @@
 
 参见 [https://docs.python.org/zh-cn/3.7/library/functions.html](https://docs.python.org/zh-cn/3.7/library/functions.html)
 
-|a-c | d-h |h-m | m-s | s-_ |
+| a-c | d-h | h-m | m-s | s-\_ |
 | :--- | :--- | :--- | :--- | :--- |
 | [`abs()`](https://docs.python.org/zh-cn/3.7/library/functions.html#abs) | [`delattr()`](https://docs.python.org/zh-cn/3.7/library/functions.html#delattr) | [`hash()`](https://docs.python.org/zh-cn/3.7/library/functions.html#hash) | [`memoryview()`](https://docs.python.org/zh-cn/3.7/library/functions.html#func-memoryview) | [`set()`](https://docs.python.org/zh-cn/3.7/library/functions.html#func-set) |
 | [`all()`](https://docs.python.org/zh-cn/3.7/library/functions.html#all) | [`dict()`](https://docs.python.org/zh-cn/3.7/library/functions.html#func-dict) | [`help()`](https://docs.python.org/zh-cn/3.7/library/functions.html#help) | [`min()`](https://docs.python.org/zh-cn/3.7/library/functions.html#min) | [`setattr()`](https://docs.python.org/zh-cn/3.7/library/functions.html#setattr) |
@@ -18,6 +18,4 @@
 | [`classmethod()`](https://docs.python.org/zh-cn/3.7/library/functions.html#classmethod) | [`getattr()`](https://docs.python.org/zh-cn/3.7/library/functions.html#getattr) | [`locals()`](https://docs.python.org/zh-cn/3.7/library/functions.html#locals) | [`repr()`](https://docs.python.org/zh-cn/3.7/library/functions.html#repr) | [`zip()`](https://docs.python.org/zh-cn/3.7/library/functions.html#zip) |
 | [`compile()`](https://docs.python.org/zh-cn/3.7/library/functions.html#compile) | [`globals()`](https://docs.python.org/zh-cn/3.7/library/functions.html#globals) | [`map()`](https://docs.python.org/zh-cn/3.7/library/functions.html#map) | [`reversed()`](https://docs.python.org/zh-cn/3.7/library/functions.html#reversed) | [`__import__()`](https://docs.python.org/zh-cn/3.7/library/functions.html#__import__) |
 | [`complex()`](https://docs.python.org/zh-cn/3.7/library/functions.html#complex) | [`hasattr()`](https://docs.python.org/zh-cn/3.7/library/functions.html#hasattr) | [`max()`](https://docs.python.org/zh-cn/3.7/library/functions.html#max) | [`round()`](https://docs.python.org/zh-cn/3.7/library/functions.html#round) |  |
-
-
 
