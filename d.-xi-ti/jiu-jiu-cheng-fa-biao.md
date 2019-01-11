@@ -51,3 +51,9 @@ for i in range(1,10):
                                                         9*9=81 
 ```
 
+## 使用列表解析式
+
+```python
+print("".join(["{}*{}={:<3}{}".format(j,i,i*j,"\n" if i == j else "") for i in range(1,10) for j in range(1,i+1) ] ))
+```
+

@@ -27,6 +27,8 @@
 * [B. 算法](b.-suan-fa/README.md)
   * [1. 排序](b.-suan-fa/1.-pai-xu/README.md)
     * [1.冒泡法排序](b.-suan-fa/1.-pai-xu/1.-mao-pao-fa-pai-xu.md)
+    * [2. 简单选择排序](b.-suan-fa/1.-pai-xu/2.-jian-dan-xuan-ze-pai-xu.md)
+    * [3. 二元选择排序](b.-suan-fa/1.-pai-xu/3.-er-yuan-xuan-ze-pai-xu.md)
 * [C. 模块](c.-mo-kuai/README.md)
   * [collections](c.-mo-kuai/collections.md)
   * [copy](c.-mo-kuai/copy.md)
@@ -41,4 +43,5 @@
   * [求素数](d.-xi-ti/qiu-su-shu.md)
   * [猴子吃桃](d.-xi-ti/hou-zi-chi-tao.md)
   * [杨辉三角](d.-xi-ti/yang-hui-san-jiao.md)
+  * [转置矩阵](d.-xi-ti/zhuan-zhi-ju-zhen.md)
 
